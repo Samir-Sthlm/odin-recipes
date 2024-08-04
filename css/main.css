@@ -1,0 +1,19 @@
+h1 {
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    background-color: orange;
+    color: black;
+}
+
+p, ol {
+    background-color: lightgray;
+}
+
+ul {
+    background-color: black;
+    color: white;
+}
